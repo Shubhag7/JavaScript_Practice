@@ -50,7 +50,7 @@ function addone(num){
     return num + 1
 }
 
-
+//hoisting
 
 addTwo(5)
 const addTwo = function(num){
